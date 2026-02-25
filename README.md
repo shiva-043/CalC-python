@@ -12,6 +12,9 @@ A basic calculator built using python. All basic arithmetic operations are suppo
     2.Subtraction
     3.Multiplication
     4.Division
+    5.Modulus
+    6.Nth power
+    7.Nth root
 
 
 
@@ -33,7 +36,7 @@ Let's begin 🏁
 
 Enter a number 123
 Choose Operation:
-+ - * / % 
++ - * / % p n
 (h for help)
 *  
 Number 234
@@ -45,7 +48,7 @@ Ans: 28782.0
 🛑 Exit --> Q
  
 Choose Operation:
-+ - * / % 
++ - * / % p n 
 (h for help)
 /
 Number 0
@@ -63,6 +66,5 @@ Ans: 28782.0
 ## Future Improvements
 1.Trigonometric functions
 2.Logarithmic functions
-3.Syntax-error handling
-4.Nth power and root
+
 

@@ -48,7 +48,7 @@ def main():
 
 def help():
     print(
-        "\n+ ---> Addition\n- ---> Subtraction\n* ---> Multiplication\n\\ ---> Division\n% ---> Modulus\np ---> Power\nr ---> Root "
+        "\n+ ---> Addition\n- ---> Subtraction\n* ---> Multiplication\n\\ ---> Division\n% ---> Modulus\np ---> Power\nr ---> Root"
         )
 
 def get_number(s):
